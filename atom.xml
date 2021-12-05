@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Bodhisatan&#39;s blog</title>
+  
+  
+  <link href="https://bodhisatan.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://bodhisatan.github.io/"/>
+  <updated>2021-12-05T16:21:05.744Z</updated>
+  <id>https://bodhisatan.github.io/</id>
+  
+  <author>
+    <name>Xianjie Yao</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>中间件实践指南</title>
+    <link href="https://bodhisatan.github.io/2021/12/06/%E4%B8%AD%E9%97%B4%E4%BB%B6%E5%AE%9E%E8%B7%B5%E6%8C%87%E5%8D%97/"/>
+    <id>https://bodhisatan.github.io/2021/12/06/%E4%B8%AD%E9%97%B4%E4%BB%B6%E5%AE%9E%E8%B7%B5%E6%8C%87%E5%8D%97/</id>
+    <published>2021-12-05T16:18:49.000Z</published>
+    <updated>2021-12-05T16:21:05.744Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Redis"><a href="#Redis" class="headerlink" title="Redis"></a>Redis</h2><h2 id="MQ"><a href="#MQ" class="headerlink" title="MQ"></a>MQ</h2><h2 id="MYSQL"><a href="#MYSQL" class="headerlink" title="MYSQL"></a>MYSQL</h2><h2 id="RPC"><a href="#RPC" class="headerlink" title="RPC"></a>RPC</h2>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;Redis&quot;&gt;&lt;a href=&quot;#Redis&quot; class=&quot;headerlink&quot; title=&quot;Redis&quot;&gt;&lt;/a&gt;Redis&lt;/h2&gt;&lt;h2 id=&quot;MQ&quot;&gt;&lt;a href=&quot;#MQ&quot; class=&quot;headerlink&quot; title=&quot;MQ&quot;&gt;&lt;/a&gt;M</summary>
+      
+    
+    
+    
+    <category term="系统设计" scheme="https://bodhisatan.github.io/categories/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1/"/>
+    
+    
+    <category term="中间件" scheme="https://bodhisatan.github.io/tags/%E4%B8%AD%E9%97%B4%E4%BB%B6/"/>
+    
+  </entry>
+  
+</feed>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>中间件实践指南</title>
+    <url>/2021/12/06/%E4%B8%AD%E9%97%B4%E4%BB%B6%E5%AE%9E%E8%B7%B5%E6%8C%87%E5%8D%97/</url>
+    <content><![CDATA[<h2 id="Redis"><a href="#Redis" class="headerlink" title="Redis"></a>Redis</h2><h2 id="MQ"><a href="#MQ" class="headerlink" title="MQ"></a>MQ</h2><h2 id="MYSQL"><a href="#MYSQL" class="headerlink" title="MYSQL"></a>MYSQL</h2><h2 id="RPC"><a href="#RPC" class="headerlink" title="RPC"></a>RPC</h2>]]></content>
+      <categories>
+        <category>系统设计</category>
+      </categories>
+      <tags>
+        <tag>中间件</tag>
+      </tags>
+  </entry>
+</search>
